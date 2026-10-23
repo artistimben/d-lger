@@ -1,0 +1,17 @@
+{
+    "name": "Dülgeroğlu Filo",
+    "short_name": "Filo",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#12110f",
+    "theme_color": "#12110f",
+    "lang": "tr",
+    "icons": [
+        {
+            "src": "/icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        }
+    ]
+}
